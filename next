@@ -1,0 +1,11 @@
+<script>start("/Users/omerahmer/personal/next-zustand/.next/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cache","cache",1,128,"128 B",1735713622,"12/31/24, 10:40:22 PM");</script>
+<script>addRow("server","server",1,448,"448 B",1735713622,"12/31/24, 10:40:22 PM");</script>
+<script>addRow("static","static",1,224,"224 B",1735713623,"12/31/24, 10:40:23 PM");</script>
+<script>addRow("types","types",1,128,"128 B",1735713622,"12/31/24, 10:40:22 PM");</script>
+<script>addRow("app-build-manifest.json","app-build-manifest.json",0,308,"308 B",1735779109,"1/1/25, 4:51:49 PM");</script>
+<script>addRow("build-manifest.json","build-manifest.json",0,361,"361 B",1735779109,"1/1/25, 4:51:49 PM");</script>
+<script>addRow("package.json","package.json",0,20,"20 B",1735713615,"12/31/24, 10:40:15 PM");</script>
+<script>addRow("react-loadable-manifest.json","react-loadable-manifest.json",0,2,"2 B",1735779109,"1/1/25, 4:51:49 PM");</script>
+<script>addRow("trace","trace",0,416691,"407 kB",1735779657,"1/1/25, 5:00:57 PM");</script>
